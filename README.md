@@ -16,4 +16,5 @@ Basic ERC20 token implementation using Solidity and Hardhat.
 - TypeScript
 
 ## Status
-🚧 In progress
+✅ Complete (maintained)
+
