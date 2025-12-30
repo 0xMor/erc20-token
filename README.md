@@ -1,2 +1,18 @@
-# erc20-token
-Basic ERC20 token implementation using Solidity and Hardhat
+# ERC20 Token
+
+Basic ERC20 token implementation using Solidity and Hardhat.
+
+## Features
+- Minting
+- Burning
+- Access control
+- Unit tests
+
+## Tech stack
+- Solidity
+- Hardhat
+- ethers.js
+- TypeScript
+
+## Status
+🚧 In progress
